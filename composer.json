@@ -5,7 +5,10 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
+        "ecotone/jms-converter": "^1.81",
+        "ecotone/laravel": "^1.81",
+        "ecotone/pdo-event-sourcing": "^1.81",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
